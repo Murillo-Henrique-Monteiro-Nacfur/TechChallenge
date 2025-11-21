@@ -1,4 +1,4 @@
 # Fase 1
-## Desenvolvimento da promeira fase do techChallenge 
+## Desenvolvimento da primeira fase do techChallenge 
 # Fase 2
 ## Desenvolvimento da segunda fase do techChallenge
